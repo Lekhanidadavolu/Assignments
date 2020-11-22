@@ -1,0 +1,8 @@
+
+name : null
+dob : null
+marks 1: null
+marks 2 : null
+marks 3 : null
+average :0
+total : 0
